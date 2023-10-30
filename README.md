@@ -5,4 +5,6 @@ This is a group work effort of group 1.
 We are projecting what we have learnt in the course of Data Logical Thinking. 
 In this repository we express our skills in working with data and web design.
 
+Link to the webpage of the project: https://pernillajuliette.github.io/ProjectAlgorithm/
+
 // Geovent R. Nakate, Ioannis Bismpikopoulos, Lydia Lindberg, Pernilla Lindkvist
