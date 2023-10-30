@@ -1,0 +1,11 @@
+Request a user input for an ID number for newspaper records. The number is between 0 and 50. The output is Id number, article title and year of publication.
+
+Pseudocode:
+
+Write "Please enter an ID number"
+
+If (num >0 and num <=50)
+
+	<Print "title, author, year">;
+Else if
+	<Print "no article data found">;
